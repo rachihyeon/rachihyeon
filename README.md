@@ -1,6 +1,6 @@
 # RA CHI HYEON
 
-![ChiHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachihyeon&show_icons=true&theme=radical)
+![ChiHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachihyeon&show_icons=true&theme=dracula)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skallook)](https://solved.ac/skallook)
 
 # Skills

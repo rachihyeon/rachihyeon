@@ -1,4 +1,4 @@
-![C++](https://img.shields.io/badge/Cpp-#00599C.svg?&style=for-the-badge&logo=Cpp&logoColor=#00599C)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 <!--
 **rachihyeon/rachihyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skallook)](https://solved.ac/skallook)
 
-# SKILL
+# Skills
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=00599C)
 
 

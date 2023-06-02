@@ -6,7 +6,6 @@
 # Skills
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=00599C)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 <!--
 **rachihyeon/rachihyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
